@@ -1,0 +1,20 @@
+{
+    "name": "lotiger/validator",
+    "description": "a package to validator data from client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lotiger",
+            "email": "lotiger@97866.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lotiger\\": "src/"
+        }
+    }
+}
